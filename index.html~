@@ -55,12 +55,12 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About the Event</h2>
-                <p>The event will be held at $location (see the map below). Drinks and snacks will be provided.</p>
+                <p>The event will be held at $location. Drinks and snacks will be provided.</p>
                 <h3>6:00 - 7:30pm: Workshop</h3>
                 <p>Come connect with open science projects being worked on in the Pioneer Valley and around the world.  Learn about projects like the <a href="https://wiki.mozilla.org/ScienceLab">Mozilla Science Lab</a>, the <a href="http://centerforopenscience.org/"> Center for Open Science</a>, <a href="http://publiclab.org/">Public Lab</a> and more.  Get advice about applying for open science grants and internships.</p>
                 <h3>7:30 - 9:00pm: Panel</h3>
                 <p>Here from local leaders in open science.  Panelists to be announced soon!</p>
-                <h2>Can't wait?  Join the mailing list!</h2>
+                <h2>Can't wait?  <a href="https://groups.google.com/forum/#!forum/exploring-open-science">Join the mailing list!</a></h2>
           </div>
         </div>
             
@@ -80,13 +80,6 @@
     </section>
                 
 
-
-    <section>    
-        <!-- Map Section -->
-        <div id="map">
-        </div>
-    </section>
-
     
     
 
@@ -99,11 +92,6 @@
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
 
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsXI3NG1cFpGL0AWWwGOPT8uzo4F9ArwM">var mapOptions = {
-  center: new google.maps.LatLng(-34.397, 150.644),
-  zoom: 8
-};</script>
 
     <!-- Custom Theme JavaScript -->
     <script src="js/grayscale.js"></script>

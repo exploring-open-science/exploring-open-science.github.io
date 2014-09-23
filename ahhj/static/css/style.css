@@ -1,0 +1,22 @@
+body {
+  color: #222;
+}
+
+h1, h2 {
+  color: black;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+.row {
+  padding-bottom: 2em;
+}
+
+body {
+    background-image: url('static/img/science.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+

@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Exploring Open Science</h1>
-                        <p class="intro-text">Tuesday, October 14th from 6pm-9pm at $location</p>
+                        <p class="intro-text">Tuesday, October 14th from 6pm-9pm<br />at UMass-Amherst's WEB Dubois Library</p>
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -55,11 +55,13 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About the Event</h2>
-                <p>The event will be held at $location. Drinks and snacks will be provided.</p>
+                <p>The event will be held at UMass Amherst's WEB Dubois library. Drinks and snacks will be provided.</p>
                 <h3>6:00 - 7:30pm: Workshop</h3>
+                <h4>Calipari Room, Lower Level DuBois Library</h4>
                 <p>Come connect with open science projects being worked on in the Pioneer Valley and around the world.  Learn about projects like the <a href="https://wiki.mozilla.org/ScienceLab">Mozilla Science Lab</a>, the <a href="http://centerforopenscience.org/"> Center for Open Science</a>, <a href="http://publiclab.org/">Public Lab</a> and more.  Get advice about applying for open science grants and internships.</p>
                 <h3>7:30 - 9:00pm: Panel</h3>
-                <p>Here from local leaders in open science.  Panelists to be announced soon!</p>
+                <h4>Room 1620, DuBois Library</h4>
+                <p>Hear from local leaders in open science.  Panelists to be announced soon!</p>
                 <h2>Can't wait?  <a href="https://groups.google.com/forum/#!forum/exploring-open-science">Join the mailing list!</a></h2>
           </div>
         </div>
@@ -72,7 +74,7 @@
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>About Open Science</h2>
-                <p>Open science is a movement that to make the process and results of scientific research accessible to all people.  It encompasses the open access movement, reproducibility initiatives, citizen science, open notebook science, and more.</p>
+                <p>Open science is a movement to make the process and results of scientific research accessible to all people.  It encompasses the open access movement, reproducibility initiatives, citizen science, open notebook science, and more.</p>
                 
                 </div>
             </div>

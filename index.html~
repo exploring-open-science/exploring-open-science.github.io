@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">Exploring Open Science</h1>
-                        <p class="intro-text">Tuesday, October 14th from 6pm-9pm<br />at UMass-Amherst's WEB Dubois Library</p>
+                        <p class="intro-text">Tuesday, October 14th from 6pm-9pm<br />at UMass-Amherst's W.E.B. Du Bois Library</p>
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -55,13 +55,18 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About the Event</h2>
-                <p>The event will be held at UMass Amherst's WEB Dubois library. Drinks and snacks will be provided.</p>
+                <p>The event will be held at UMass Amherst's W.E.B. Du Bois library. Drinks and snacks will be provided.</p>
                 <h3>6:00 - 7:30pm: Workshop</h3>
-                <h4>Calipari Room, Lower Level DuBois Library</h4>
+                <h4>Calipari Room, Lower Level Du Bois Library</h4>
                 <p>Come connect with open science projects being worked on in the Pioneer Valley and around the world.  Learn about projects like the <a href="https://wiki.mozilla.org/ScienceLab">Mozilla Science Lab</a>, the <a href="http://centerforopenscience.org/"> Center for Open Science</a>, <a href="http://publiclab.org/">Public Lab</a> and more.  Get advice about applying for open science grants and internships.</p>
                 <h3>7:30 - 9:00pm: Panel</h3>
-                <h4>Room 1620, DuBois Library</h4>
-                <p>Hear from local leaders in open science.  Panelists to be announced soon!</p>
+                <h4>Room 1320, Du Bois Library</h4>
+                <p>Hear from local leaders in open science, including:</p>
+                <ul>
+                <li><h3><a href="http://eco.umass.edu/people/faculty/schweik-charles-m/">Dr. Charles Schweik</a></h3><p>Dr. Charles Schweik is an Associate Professor of Environmental Conservation and Public Policy, as well as a leader in open source geospatial technology. He is the chair of the OSGeo.org’s Education and Curriculum Committee and one of the four leads in the creation of the GeoForAll global network. Schweik is also the lead author on the book Internet Success: A Study of Open Source Software Commons (MIT Press, 2012). </p></li>
+                <li><h3><a href="http://ciir.cs.umass.edu/~dietz/">Dr. Laura Dietz</a></h3><p>Dr. Laura Dietz is one of the founding members of <a href="http://pvos.org/">Pioneer Valley Open Science</a>. She is actively involved in the water-quality project <a href="http://publiclab.org/wiki/riffle">"RIFFLE"</a>, a collaboration with Public Lab involving Don Blair and Ben Gamari which is aimed at researchers, concerned citizens, and educators. In her work life, she is a post-doctoral Research Scientist in Computer Science working on how to find relevant documents with the help of Wikipedia.</p></li>
+
+                </ul>
                 <h2>Can't wait?  <a href="https://groups.google.com/forum/#!forum/exploring-open-science">Join the mailing list!</a></h2>
           </div>
         </div>
